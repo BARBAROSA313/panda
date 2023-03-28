@@ -1,0 +1,16 @@
+.carousel-bg{
+    background-color: burlywood;
+}
+.price{
+    color:rgb(255, 51, 0)
+}
+.carousel-item{
+    padding: 20px;
+    border-radius: 10px;
+}
+.all-button{
+    background-image: green;
+}
+.container{
+    margin-bottom: 40px;
+}
